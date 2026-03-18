@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/backend-tests-java-springboot-okitxaod:7a4c23c420198bf2c01530c7d7f0b6a67c71675c
+        - image: quay.io/chetna14manku_org/backend-tests-java-springboot-okitxaod:e3c6a76d8501569567cd7d421dc13f6f99c40e7c
           name: container-image
